@@ -9,7 +9,7 @@ import {
   Modal
 } from 'react-native';
 
-import ImageGallery from './app/components/ImageElement';
+import ImageElement from './app/components/ImageElement';
 
 export default class ImageGallery extends Component {
   // Определяем начальное состояние
